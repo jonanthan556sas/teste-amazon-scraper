@@ -1,0 +1,13 @@
+{
+  "name": "teste-amazon-scraper",
+  "version": "1.0.0",
+  "description": "Teste do scraper da amazon no render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "@afilimax/amazon-scraper": "^0.1.1"
+  }
+}
